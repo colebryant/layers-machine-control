@@ -1,4 +1,4 @@
-Machine control system which reads csv input data to control a fictitious manufacturing machine. 
+Machine control program which reads csv input data to control a fictitious manufacturing machine. 
 
 Structured in a "Layered" architecture and utilizes Facade and Strategy design patterns.
 
